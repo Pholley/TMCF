@@ -11,7 +11,7 @@ C. The results have clear importance in application areas and can be developed f
 
 Please cast your vote using an MS form. https://forms.office.com/r/txMfyFraxT
 
-Votin opens on 1 February and the voting will close on 15 February 2024.
+Voting opens on 1 February and closes on 15 February 2024.
 
 If the challenge that you wish to participate is succesful, we will contact you to request your persmission to share your details with the challenge owner and we will contact you with the outcome of your request.
 
