@@ -15,5 +15,7 @@ Voting opens on 1 February and closes on 15 February 2024.
 
 If the challenge that you wish to participate is succesful, we will contact you to request your persmission to share your details with the challenge owner and we will contact you with the outcome of your request.
 
+Find more information about the Theory and Methods Challenge Fortnight programme on the Turing website https://www.turing.ac.uk/research/theory-and-method-challenge-fortnights.
+
 If you have any questions, please email tmcf@turing.ac.uk
 
