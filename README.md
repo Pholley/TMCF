@@ -13,5 +13,7 @@ Please cast your vote using an MS form. https://forms.office.com/r/txMfyFraxT
 
 Votin opens on 1 February and the voting will close on 15 February 2024.
 
-If the challenge that you wish to participate is suc
+If the challenge that you wish to participate is succesful, we will contact you to request your persmission to share your details with the challenge owner and we will contact you with the outcome of your request.
+
+If you have any questions, please email tmcf@turing.ac.uk
 
