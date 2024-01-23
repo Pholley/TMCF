@@ -1,5 +1,5 @@
 # TMCF 2024
-This repository contains the applications to the TMCF 2024 call. These applications are shared with the data science community to seek their votes for the two challenges that should received funding to organise a two-week event on the proposed challenge. 
+This repository contains the call document and applications for the TMCF 2024 call. These applications are shared with the data science community to seek their votes for the two challenges that should received funding to organise a two-week event on the proposed challenge. You also have the opportunity to indicate if you want to participate in the team tackling the challenge. 
 
 Please read the call document before casting your vote. The proposers were recommended to formulate proposals taking into account the following criteria: 
 
@@ -10,4 +10,8 @@ B. The challenge benefits from cross-disciplinary group work, potentially combin
 C. The results have clear importance in application areas and can be developed further to deliver impact in applied streams of work in the Turing (e.g.linking with Data Study Groups, Interest Groups, through applications for follow-up funding, etc) or elsewhere.
 
 Please cast your vote using an MS form. https://forms.office.com/r/txMfyFraxT
+
+Votin opens on 1 February and the voting will close on 15 February 2024.
+
+If the challenge that you wish to participate is suc
 
