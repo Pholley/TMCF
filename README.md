@@ -1,7 +1,7 @@
 # Theory and Methods Challenge Fortnights 2024 call
 This repository contains the call document and applications for the TMCF 2024 call. These applications are shared with the data science community to seek their votes for the two challenges that should received funding to organise a two-week event on the proposed challenge. You also have the opportunity to indicate if you want to participate in the team tackling the challenge. 
 
-Please read the call document https://github.com/Pholley/TMCF/blob/main/2023%2009%20TMCF-call.pdf before casting your vote. The proposers were recommended to formulate proposals taking into account the following criteria: 
+Please read the call document https://github.com/Pholley/TMCF/blob/main/2023%2009%20TMCF-call.pdf before casting your vote. The proposers were asked to formulate proposals taking into account the following criteria: 
 
 A. The results are of wide theoretical and methodological importance (a justification and the appropriate supporting literature should have been referenced within the proposal) in a least one discipline in the Data Science and Artificial Intelligence ecosystems. 
 
