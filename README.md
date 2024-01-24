@@ -5,11 +5,11 @@ Please read the call document https://github.com/Pholley/TMCF/blob/main/2023%200
 
 The proposers were asked to formulate proposals taking into account the following criteria: 
 
-A. The results are of wide theoretical and methodological importance (a justification and the appropriate supporting literature should have been referenced within the proposal) in a least one discipline in the Data Science and Artificial Intelligence ecosystems. 
+* The results are of wide theoretical and methodological importance (a justification and the appropriate supporting literature should have been referenced within the proposal) in a least one discipline in the Data Science and Artificial Intelligence ecosystems. 
 
-B. The challenge benefits from cross-disciplinary group work, potentially combining methodological expertise across Data Science and Artifical Intelligence.
+* The challenge benefits from cross-disciplinary group work, potentially combining methodological expertise across Data Science and Artifical Intelligence.
 
-C. The results have clear importance in application areas and can be developed further to deliver impact in applied streams of work in the Turing (e.g.linking with Data Study Groups, Interest Groups, through applications for follow-up funding, etc) or elsewhere.
+* The results have clear importance in application areas and can be developed further to deliver impact in applied streams of work in the Turing (e.g.linking with Data Study Groups, Interest Groups, through applications for follow-up funding, etc) or elsewhere.
 
 Please cast your vote using an MS form. https://forms.office.com/r/txMfyFraxT
 
